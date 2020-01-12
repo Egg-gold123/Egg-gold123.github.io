@@ -1,0 +1,21 @@
+#game {
+    border: 15px solid rebeccapurple;
+    background-image: url(https://previews.123rf.com/images/vitaliyvill/vitaliyvill1609/vitaliyvill160900011/62999356-seamless-game-background-flat-style-2d-game-application.jpg);
+}
+#howto {
+    width: 500px;
+    height: 500px;
+    float : right;
+    background-image: url(http://cdn.shopify.com/s/files/1/1473/3902/products/8c15d41b9b829464843b5aa4449a28f3_0320e753-9385-4fb6-ae32-a92bc48c50cf_1200x630.jpg?v=1571439318);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#f5 {
+    float : right;
+    width: 600px;
+    height: 50px;
+    background-color: lime;
+}
+
+
+
